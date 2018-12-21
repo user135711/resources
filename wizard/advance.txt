@@ -1,0 +1,13 @@
+name="Amazon Products"
+section="no"
+url="https://www.13clowns.com/repo/sources/Wizard_files/advance/default.xml"
+icon="https://www.13clowns.com/repo/sources/Wizard_files/icon.png"
+fanart="https://www.13clowns.com/repo/sources/Wizard_files/fanart.jpg"
+description="Settings for FireSticks & FireTV's"
+
+name="Nvidia Shields"
+section="no"
+url="https://www.13clowns.com/repo/sources/Wizard_files/advance/shield.xml"
+icon="https://www.13clowns.com/repo/sources/Wizard_files/icon.png"
+fanart="https://www.13clowns.com/repo/sources/Wizard_files/fanart.jpg"
+description="Settings for Nividia Shields w/KODI"
