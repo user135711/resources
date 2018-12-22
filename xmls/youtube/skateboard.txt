@@ -1,5 +1,5 @@
 name="Full length skateboard videos"
-section="true"
+section="false"
 search="false"
 subid="false"
 playlistid="PL8FCEEA98B156E0B9"
@@ -10,7 +10,7 @@ fanart="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube
 description="900+ videos in this full lenght [sv] sv skate skateboard skateboarding movie playlist list! Contains full length skate videos, promos, local or shop videos, tour videos, contest videos and documentaries."
 
 name="Random Dunmb Stuff on a Skateboard"
-section="true"
+section="false"
 search="false"
 subid="false"
 playlistid="PLjpsoptsN4KCGW_fghTn6MJBMzyeCJU9D"
@@ -21,7 +21,7 @@ fanart="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube
 description="Uses computers as skateboards, 2x4, snowboards, etc. and rides them"
 
 name="Skateboard Tricks That Look Impossible || Best Skateboarding Tricks"
-section="true"
+section="false"
 search="false"
 subid="false"
 playlistid="false"
@@ -32,7 +32,7 @@ fanart="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube
 description="Skateboarding is one of the most popular types of extreme sports. Skate can be used as the vehicle or as a sporting tool to perform various skateboarding tricks. This compilation include the greatest | the best | crazy | sick | cool | inspirational | motivational skateboarding tricks ever made on skateboard in my opinion."
 
 name="BEST SKATEBOARD TRICKS 2018! SKATE & SKATEBOARDING TRICKS COMPILATION"
-section="true"
+section="false"
 search="false"
 subid="false"
 playlistid="false"
@@ -43,7 +43,7 @@ fanart="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube
 description="Skateboarding is one of the most popular types of extreme sports. Skate can be used as the vehicle or as a sporting tool to perform various skateboarding tricks. This compilation include the greatest | the best | crazy | sick | cool | inspirational | motivational skateboarding tricks ever made on skateboard in my opinion"
 
 name="Skateboard Tricks That Look Impossible"
-section="true"
+section="false"
 search="false"
 subid="false"
 playlistid="false"
