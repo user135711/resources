@@ -9,7 +9,7 @@ icon="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube/i
 fanart="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube/skateboard.jpg"
 description="900+ videos in this full lenght [sv] sv skate skateboard skateboarding movie playlist list! Contains full length skate videos, promos, local or shop videos, tour videos, contest videos and documentaries."
 
-name="Random Dunmb Stuff on a Skateboard"
+name="Random Dumb Stuff on a Skateboard"
 section="false"
 search="false"
 subid="false"
