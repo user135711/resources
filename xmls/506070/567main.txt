@@ -1,5 +1,5 @@
-name="[COLOR limegreen]*** 50,60,70's Movies ***[/COLOR]"
-section="true"
+name="[COLOR red]*** 50,60,70's Movies ***[/COLOR]"
+section="false"
 search="false"
 subid="false"
 playlistid="false
