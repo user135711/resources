@@ -21,7 +21,7 @@ fanart="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube
 description="Uses computers as skateboards, 2x4, snowboards, etc. and rides them"
 
 name="Skateboard Tricks That Look Impossible || Best Skateboarding Tricks"
-section="false"
+section="true"
 search="false"
 subid="false"
 playlistid="false"
@@ -32,7 +32,7 @@ fanart="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube
 description="Skateboarding is one of the most popular types of extreme sports. Skate can be used as the vehicle or as a sporting tool to perform various skateboarding tricks. This compilation include the greatest | the best | crazy | sick | cool | inspirational | motivational skateboarding tricks ever made on skateboard in my opinion."
 
 name="BEST SKATEBOARD TRICKS 2018! SKATE & SKATEBOARDING TRICKS COMPILATION"
-section="false"
+section="true"
 search="false"
 subid="false"
 playlistid="false"
@@ -43,7 +43,7 @@ fanart="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube
 description="Skateboarding is one of the most popular types of extreme sports. Skate can be used as the vehicle or as a sporting tool to perform various skateboarding tricks. This compilation include the greatest | the best | crazy | sick | cool | inspirational | motivational skateboarding tricks ever made on skateboard in my opinion"
 
 name="Skateboard Tricks That Look Impossible"
-section="false"
+section="true"
 search="false"
 subid="false"
 playlistid="false"
