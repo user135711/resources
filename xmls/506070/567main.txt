@@ -1,5 +1,5 @@
-name="50,60,70 Moviessss-playlist"
-section="true"
+name="50,60,70 Movies"
+section="false"
 search="false"
 subid="false"
 playlistid="PLd7CNCK5kfMyPjlGhASF35RpqOV9XQQn0"
