@@ -17,7 +17,7 @@ class Generator:
         self.fanart = None
 
         # CHANGEME to match the channel ID you want to pull
-        self.channel = 'UC3OFPTgSjbex5P4TcL_XINA'
+        self.channel = 'PLd7CNCK5kfMyPjlGhASF35RpqOV9XQQn0'
         # generate files
         self._generate_yt_templates()
 
