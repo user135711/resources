@@ -19,7 +19,7 @@ videoid="UGdif-dwu-8"
 icon="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube/icons/snowboard.png"
 fanart="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube/snowboard.jpg"
 description="Watch the snowboard action film As the Crow Flies on YouTube in 4K!
-Join international snowboard professionals - Gigi RÃ¼f , Elias Elhardt, Kazu Kokubo and Toni Kerkela - on their journey around the globe to determine which path leads to a life well-lived, always on the hunt for the best snow, the gnarliest lines, the most unique features."
+Join international snowboard professionals - Gigi Rüf , Elias Elhardt, Kazu Kokubo and Toni Kerkela - on their journey around the globe to determine which path leads to a life well-lived, always on the hunt for the best snow, the gnarliest lines, the most unique features."
 
 name="As the Crow Flies | Full Snowboarding Movie (4K)"
 section="false"
