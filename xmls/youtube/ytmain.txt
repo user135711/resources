@@ -1,7 +1,7 @@
 name="4K misc"
 section="false"
 search="false"
-subid="4K"
+subid="4k"
 playlistid="false"
 channelid="false"
 videoid="false"
