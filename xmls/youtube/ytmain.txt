@@ -1,7 +1,7 @@
 name="test------"
 section="false"
 search="false"
-subid="*/fitnesszone/fzmain"
+subid="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/fitnesszone/fzmain"
 playlistid="false"
 channelid="false"
 videoid="false"
