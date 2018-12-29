@@ -6,7 +6,7 @@ playlistid="false"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube/icons/4k.png"
-fanart="https://"
+fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/fanart.jpg"
 description="YouTube 4k videos"
 
 name="Aliens"
