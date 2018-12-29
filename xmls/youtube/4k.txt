@@ -1,4 +1,4 @@
-name="Random 4K Videos"
+name="Random 4K Videos---new"
 section="true"
 search="false"
 subid="false"
@@ -6,6 +6,6 @@ playlistid="PPL_T9MO520krq5QsT1sIHdmBUNodksi8v2"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube/icons/4k.png"
-fanart="https://"
+fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/fanart.jpg"
 description="Collection of Random 4K Videos"
 
