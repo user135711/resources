@@ -262,18 +262,6 @@ icon="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube/i
 fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
 description="YouTube Snowboaring videos"
 
-
-name="Snowboarding"
-section="false"
-search="false"
-subid="snowboarding"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube/icons/snowboarding.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Snowboaring videos"
-
 name="Sports Fails"
 section="false"
 search="false"
@@ -316,7 +304,7 @@ channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube/icons/surfing.png"
 fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
-description="YouTube Surfacing videos"
+description="YouTube Surfing videos"
 
 name="Wakeboarding"
 section="false"
