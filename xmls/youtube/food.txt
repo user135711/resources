@@ -39,6 +39,6 @@ playlistid="PLjKwpI6-r_UBKqAPNbZMlnhI-xkh2zVX6"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube/icons/culinary.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
+fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg""
 description="Chef Geremy teaches you some interesting culinary techniques and tools"
 

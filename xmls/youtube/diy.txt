@@ -6,7 +6,7 @@ playlistid="false"
 channelid="UCgezeU5ToWz2Eg5JjuIctng"
 videoid="false"
 icon="https://raw.githubusercontent.com/13Clowns/resources/master/xmls/youtube/icons/diy.png"
-fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg"
+fanart="https://raw.githubusercontent.com/13Clowns/resources/master/images/ytfanart.jpg""
 description="Welcome to the official YouTube channel of DIY Network. DIY Network is the go-to destination for rip-up, knock-out home improvement television."
 
 name="Made to Sew"
