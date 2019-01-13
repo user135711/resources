@@ -1,0 +1,23 @@
+13Clowns is a fork of Exodus/Incursion/Placenta addons, with Civitas Scrapers. If you do not like the look of the Clown there are 2 other options for you once installed. Exodus and Zanni. This can be done by going to Tools: SETTINGS: General->Appearance. Change to what you want. 
+Categories include: Movies, TV Shows, 13Clowns Favorites, Monthly Actor Spotlight, Documentaries, Cartoons, YouTube playlists. Sync your Trakt, IMdB, Real-Debrid, Premiumize. 
+Default setting are set to auto play, you can change SETTING: Playback
+The default scraping provider is Civitas, although there is also Global providers that you can choose from in the SETTINGS: Provider menu. Just be sure to Clear PROVIDER CACHE after. 
+HIGHLY recommended to use your own APIs, TVdB, TMdb, OMdB, etc.
+
+For support follow them on Telegram: https://t.me/Clowns13
+
+How to install 13CLOWNS VIDEO Add-on for Kodi 17 Krypton
+o	HOME Screen > Add-ons > Settings button > Enable Unknown Sources.
+o	BACK to HOME screen > Settings button > File Manager > Add Source.
+o	Enter http://13clowns.github.io in the top box
+o	Enter 13CLOWNS in the bottom box > Click OK.
+o	BACK to HOME screen > Add-Ons > Add-on Browser 
+o	Install from zip file > 13CLOWNS > repository.13clowns-x.x.x.zip.
+o	Wait for Add-on enabled notification.
+o	Install from repository > 13Clowns Repo > (Video/Music/Program) add-ons > 13clowns Video > Install.
+o	Wait for Add-on enabled notification.
+o	Congratulations, your 13clowns Video Add-on is now installed and ready to use.
+
+
+Thanks,
+Clownman & 13Clowns
