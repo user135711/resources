@@ -1,4 +1,4 @@
-6
+7
 |||
 *********************************************************************************
 *********************************************************************************
@@ -6,24 +6,24 @@ THIS IS A TOTALY FREE OF CHARGE SERVICE, IF YOU WANT PREMIUM SERVICE, YOU HAVE S
 *********************************************************************************
 *********************************************************************************
 
-FREE USERS: (1.0.2)
+FREE USERS:
 *********************************************************************************
-Changes: Fixed Live TV
-*********************************************************************************
-
-PREMIUM USERS: (1.0.2)
-*********************************************************************************
-Changes: Fixed Alternative, added shorcut to Lambda Scarpers
+Changes: Added Kodi 18 Build. Must be on KODI 18 look in the APK section 
 *********************************************************************************
 
-WIZARD INFORMATION: (1.0.8)
+PREMIUM USERS:
 *********************************************************************************
-Changes: Added 13Clowns and Zanni
+Changes: 
+*********************************************************************************
+
+WIZARD INFORMATION:
+*********************************************************************************
+Changes: 
 *********************************************************************************
 
 APK INFORMATION:
 *********************************************************************************
-Changes: Intial Setup
+Changes:
 *********************************************************************************
 
 [B][COLORred]13Clowns[/COLOR][/B], addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.The author does not host any of the content in this addon and takes no responsibility for content found.
