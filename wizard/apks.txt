@@ -1,11 +1,3 @@
-name="Kodi 18 32bit"
-section="no"
-url="https://raw.githubusercontent.com/13Clowns/resources/master/wizard/apps_APKs/kodi18.apk"
-icon="http://"
-fanart="http://"
-adult="no"
-description="Kodi 18" 
-
 name="ES File Explorer"
 section="no"
 url="https://raw.githubusercontent.com/13Clowns/resources/master/wizard/apps_APKs/ESFILE.apk"
