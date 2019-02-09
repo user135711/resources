@@ -42,7 +42,7 @@ preview="http://"
 adult="no"
 description="Wolf builds"
 
-name="Clown_Aura_A"
+name="Clown_Aura_A_18"
 version="1.0.1"
 url="https://raw.githubusercontent.com/13Clowns/resources/master/builds/Clown_Aura_A_18.zip"
 minor="http://"
