@@ -1,10 +1,10 @@
 name="Kodi 18 32bit"
 section="no"
-url="https://kodi.tv/download-thanks?u=http%3A%2F%2Fmirrors.kodi.tv%2Freleases%2Fandroid%2Farm%2Fkodi-18.0-Leia-armeabi-v7a.apk"
+url="https://raw.githubusercontent.com/13Clowns/resources/master/wizard/apps_APKs/kodi18.apk"
 icon="http://"
 fanart="http://"
 adult="no"
-description="Kodi 18"
+description="Kodi 18" 
 
 name="ES File Explorer"
 section="no"
