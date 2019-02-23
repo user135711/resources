@@ -1,6 +1,6 @@
 name="Clown_Aura_B_18"
 extracted="141621754"
-zipsize="100597141"
+zipsize="100599195"
 skin="skin.aura"
 created="2019-02-23"
 programs="AutoCompletion for virtual keyboard, 13Clowns Wizard, ExtendedInfo Script, Civitas Scrapers Module, Web-PDB, youtube-dl Control, ToolBox Script, F4mProxy"
